@@ -1,0 +1,30 @@
+{
+  "name": "azure-blob-storage-wrapper",
+  "version": "1.0.0",
+  "description": "Simplified wrapper for Azure Blob Storage Services",
+  "main": "app.js",
+  "dependencies": {
+    "azure-storage": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingenieriasapco/azure-blob-storage-wrapper.git"
+  },
+  "keywords": [
+    "azure",
+    "blob",
+    "storage",
+    "services",
+    "wrapper"
+  ],
+  "author": "Sapco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingenieriasapco/azure-blob-storage-wrapper/issues"
+  },
+  "homepage": "https://github.com/ingenieriasapco/azure-blob-storage-wrapper#readme"
+}
